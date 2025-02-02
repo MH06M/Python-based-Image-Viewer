@@ -47,9 +47,18 @@ The system's comprehensive feature set and user-friendly interface make advanced
 
 https://github.com/user-attachments/assets/43af2ec1-78f4-4d40-8654-8762c036b6d0
 
+
+## 🦸 Team
+- Mostafa Hany
+- Moustafa Ali
+- Mostafa Hazem
+- Muhammed Nasser
+
 ## License 🧾
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Intro-to-Imaging-and-Image-based-Anatomy/blob/da9c88306ad92a10ca93f5c355d2b6c4fdc0ee02/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MH06M/Python-based-Image-Viewer/blob/main/LICENSE) for details.
 
 ## Contact 📞
-mostafa.hussien05@eng-st.cu.edu.eg
+Email: mostafahany748@gmail.com <br>
+LinkedIn: www.linkedin.com/in/moustafaali1
+
 
