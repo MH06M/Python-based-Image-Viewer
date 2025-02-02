@@ -1,5 +1,5 @@
 # Advanced Medical Image Processing Suite 🏥
-Our team developed a sophisticated medical image processing platform in two weeks, designed to enhance diagnostic capabilities through advanced visualization and analysis tools.
+Our team developed a sophisticated medical image processing platform in two weeks to enhance diagnostic capabilities through advanced visualization and analysis tools.
 ## Key Features ✨
 ### Precision Image Control 🔍
 Engineered a comprehensive suite of image manipulation tools including:
